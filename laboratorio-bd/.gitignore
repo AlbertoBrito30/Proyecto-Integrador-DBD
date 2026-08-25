@@ -1,0 +1,4 @@
+mysql_data/
+bin/
+*.class
+.vscode/
